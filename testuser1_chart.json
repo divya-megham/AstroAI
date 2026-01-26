@@ -1,0 +1,622 @@
+{
+  "meta": {
+    "name": "TestUser1",
+    "birth_date": "1999-11-13",
+    "birth_time": "16:20:00",
+    "birth_place": "Visakhapatnam, India",
+    "latitude": 17.6868,
+    "longitude": 83.2185,
+    "timezone_offset": 5.5,
+    "julian_day": 2451495.951388889,
+    "generated_at": "2026-01-25T16:00:26.759496"
+  },
+  "vedic": {
+    "ayanamsa": 22.40891516268482,
+    "ayanamsa_type": "B.V. Raman",
+    "ascendant": {
+      "longitude": 11.885606071845785,
+      "longitude_dms": "11°53'8\"",
+      "nakshatra": {
+        "index": 1,
+        "name": "Ashwini",
+        "deity": "Ashwini Kumaras",
+        "ruler": "Ketu",
+        "symbol": "Horse's head",
+        "nature": "Light/Swift",
+        "gana": "Deva",
+        "animal": "Male Horse",
+        "pada": 4,
+        "navamsa": "Cancer",
+        "longitude": 11.885606071845785,
+        "longitude_dms": "11°53'8\""
+      },
+      "rashi": {
+        "index": 1,
+        "name": "Mesha",
+        "english": "Aries",
+        "full_name": "Mesha (Aries)",
+        "element": "Fire",
+        "quality": "Movable",
+        "ruler": "Mars",
+        "degree_in_sign": 11.885606071845785,
+        "degree_in_sign_dms": "11°53'8\""
+      }
+    },
+    "planets": {
+      "sun": {
+        "name": "Sun",
+        "longitude": 208.20281335501508,
+        "longitude_dms": "208°12'10\"",
+        "latitude": 0.00018839660952200895,
+        "speed": 0.0,
+        "retrograde": false,
+        "nakshatra": {
+          "index": 16,
+          "name": "Vishakha",
+          "deity": "Indra-Agni",
+          "ruler": "Jupiter",
+          "symbol": "Arch",
+          "nature": "Mixed",
+          "gana": "Rakshasa",
+          "animal": "Male Tiger",
+          "pada": 3,
+          "navamsa": "Gemini",
+          "longitude": 208.20281335501508,
+          "longitude_dms": "208°12'10\""
+        },
+        "rashi": {
+          "index": 7,
+          "name": "Tula",
+          "english": "Libra",
+          "full_name": "Tula (Libra)",
+          "element": "Air",
+          "quality": "Movable",
+          "ruler": "Venus",
+          "degree_in_sign": 28.20281335501508,
+          "degree_in_sign_dms": "28°12'10\""
+        }
+      },
+      "moon": {
+        "name": "Moon",
+        "longitude": 265.7188008745691,
+        "longitude_dms": "265°43'8\"",
+        "latitude": 1.6145894005573531,
+        "speed": 0.0,
+        "retrograde": false,
+        "nakshatra": {
+          "index": 20,
+          "name": "Purva Ashadha",
+          "deity": "Apas",
+          "ruler": "Venus",
+          "symbol": "Fan",
+          "nature": "Fierce",
+          "gana": "Manushya",
+          "animal": "Male Monkey",
+          "pada": 4,
+          "navamsa": "Scorpio",
+          "longitude": 265.7188008745691,
+          "longitude_dms": "265°43'8\""
+        },
+        "rashi": {
+          "index": 9,
+          "name": "Dhanu",
+          "english": "Sagittarius",
+          "full_name": "Dhanu (Sagittarius)",
+          "element": "Fire",
+          "quality": "Dual",
+          "ruler": "Jupiter",
+          "degree_in_sign": 25.718800874569126,
+          "degree_in_sign_dms": "25°43'8\""
+        }
+      },
+      "mars": {
+        "name": "Mars",
+        "longitude": 267.83863406567195,
+        "longitude_dms": "267°50'19\"",
+        "latitude": -1.5919532098239702,
+        "speed": 0.0,
+        "retrograde": false,
+        "nakshatra": {
+          "index": 21,
+          "name": "Uttara Ashadha",
+          "deity": "Vishvadevas",
+          "ruler": "Sun",
+          "symbol": "Tusk",
+          "nature": "Fixed",
+          "gana": "Manushya",
+          "animal": "Male Mongoose",
+          "pada": 1,
+          "navamsa": "Sagittarius",
+          "longitude": 267.83863406567195,
+          "longitude_dms": "267°50'19\""
+        },
+        "rashi": {
+          "index": 9,
+          "name": "Dhanu",
+          "english": "Sagittarius",
+          "full_name": "Dhanu (Sagittarius)",
+          "element": "Fire",
+          "quality": "Dual",
+          "ruler": "Jupiter",
+          "degree_in_sign": 27.838634065671954,
+          "degree_in_sign_dms": "27°50'19\""
+        }
+      },
+      "mercury": {
+        "name": "Mercury",
+        "longitude": 213.9302579858896,
+        "longitude_dms": "213°55'49\"",
+        "latitude": -0.5727049227773567,
+        "speed": 0.0,
+        "retrograde": false,
+        "nakshatra": {
+          "index": 17,
+          "name": "Anuradha",
+          "deity": "Mitra",
+          "ruler": "Saturn",
+          "symbol": "Lotus",
+          "nature": "Soft",
+          "gana": "Deva",
+          "animal": "Female Deer",
+          "pada": 1,
+          "navamsa": "Leo",
+          "longitude": 213.9302579858896,
+          "longitude_dms": "213°55'49\""
+        },
+        "rashi": {
+          "index": 8,
+          "name": "Vrishchika",
+          "english": "Scorpio",
+          "full_name": "Vrishchika (Scorpio)",
+          "element": "Water",
+          "quality": "Fixed",
+          "ruler": "Mars",
+          "degree_in_sign": 3.9302579858895967,
+          "degree_in_sign_dms": "3°55'49\""
+        }
+      },
+      "jupiter": {
+        "name": "Jupiter",
+        "longitude": 4.87615912130472,
+        "longitude_dms": "4°52'34\"",
+        "latitude": -1.4936378259556602,
+        "speed": 0.0,
+        "retrograde": false,
+        "nakshatra": {
+          "index": 1,
+          "name": "Ashwini",
+          "deity": "Ashwini Kumaras",
+          "ruler": "Ketu",
+          "symbol": "Horse's head",
+          "nature": "Light/Swift",
+          "gana": "Deva",
+          "animal": "Male Horse",
+          "pada": 2,
+          "navamsa": "Taurus",
+          "longitude": 4.87615912130472,
+          "longitude_dms": "4°52'34\""
+        },
+        "rashi": {
+          "index": 1,
+          "name": "Mesha",
+          "english": "Aries",
+          "full_name": "Mesha (Aries)",
+          "element": "Fire",
+          "quality": "Movable",
+          "ruler": "Mars",
+          "degree_in_sign": 4.87615912130472,
+          "degree_in_sign_dms": "4°52'34\""
+        }
+      },
+      "venus": {
+        "name": "Venus",
+        "longitude": 162.25728093619261,
+        "longitude_dms": "162°15'26\"",
+        "latitude": 1.366563695781865,
+        "speed": 0.0,
+        "retrograde": false,
+        "nakshatra": {
+          "index": 13,
+          "name": "Hasta",
+          "deity": "Savitar",
+          "ruler": "Moon",
+          "symbol": "Hand",
+          "nature": "Light",
+          "gana": "Deva",
+          "animal": "Female Buffalo",
+          "pada": 1,
+          "navamsa": "Aries",
+          "longitude": 162.25728093619261,
+          "longitude_dms": "162°15'26\""
+        },
+        "rashi": {
+          "index": 6,
+          "name": "Kanya",
+          "english": "Virgo",
+          "full_name": "Kanya (Virgo)",
+          "element": "Earth",
+          "quality": "Dual",
+          "ruler": "Mercury",
+          "degree_in_sign": 12.257280936192615,
+          "degree_in_sign_dms": "12°15'26\""
+        }
+      },
+      "saturn": {
+        "name": "Saturn",
+        "longitude": 20.741819010045887,
+        "longitude_dms": "20°44'31\"",
+        "latitude": -2.6096114181693757,
+        "speed": 0.0,
+        "retrograde": false,
+        "nakshatra": {
+          "index": 2,
+          "name": "Bharani",
+          "deity": "Yama",
+          "ruler": "Venus",
+          "symbol": "Yoni",
+          "nature": "Fierce",
+          "gana": "Manushya",
+          "animal": "Male Elephant",
+          "pada": 3,
+          "navamsa": "Libra",
+          "longitude": 20.741819010045887,
+          "longitude_dms": "20°44'31\""
+        },
+        "rashi": {
+          "index": 1,
+          "name": "Mesha",
+          "english": "Aries",
+          "full_name": "Mesha (Aries)",
+          "element": "Fire",
+          "quality": "Movable",
+          "ruler": "Mars",
+          "degree_in_sign": 20.741819010045887,
+          "degree_in_sign_dms": "20°44'31\""
+        }
+      },
+      "rahu": {
+        "name": "Rahu",
+        "longitude": 105.23290945481664,
+        "longitude_dms": "105°13'58\"",
+        "latitude": 0.0,
+        "speed": 0.0,
+        "retrograde": false,
+        "nakshatra": {
+          "index": 8,
+          "name": "Pushya",
+          "deity": "Brihaspati",
+          "ruler": "Saturn",
+          "symbol": "Lotus/Arrow",
+          "nature": "Light",
+          "gana": "Deva",
+          "animal": "Male Sheep",
+          "pada": 4,
+          "navamsa": "Scorpio",
+          "longitude": 105.23290945481664,
+          "longitude_dms": "105°13'58\""
+        },
+        "rashi": {
+          "index": 4,
+          "name": "Karka",
+          "english": "Cancer",
+          "full_name": "Karka (Cancer)",
+          "element": "Water",
+          "quality": "Movable",
+          "ruler": "Moon",
+          "degree_in_sign": 15.232909454816635,
+          "degree_in_sign_dms": "15°13'58\""
+        }
+      },
+      "ketu": {
+        "name": "Ketu",
+        "longitude": 285.23290945481665,
+        "longitude_dms": "285°13'58\"",
+        "retrograde": true,
+        "nakshatra": {
+          "index": 22,
+          "name": "Shravana",
+          "deity": "Vishnu",
+          "ruler": "Moon",
+          "symbol": "Ear/Trident",
+          "nature": "Movable",
+          "gana": "Deva",
+          "animal": "Female Monkey",
+          "pada": 2,
+          "navamsa": "Taurus",
+          "longitude": 285.23290945481665,
+          "longitude_dms": "285°13'58\""
+        },
+        "rashi": {
+          "index": 10,
+          "name": "Makara",
+          "english": "Capricorn",
+          "full_name": "Makara (Capricorn)",
+          "element": "Earth",
+          "quality": "Movable",
+          "ruler": "Saturn",
+          "degree_in_sign": 15.23290945481665,
+          "degree_in_sign_dms": "15°13'58\""
+        }
+      }
+    }
+  },
+  "western": {
+    "ascendant": {
+      "longitude": 34.294521234530606,
+      "longitude_dms": "34°17'40\"",
+      "sign": {
+        "sign": "Taurus",
+        "degree": 4.294521234530606,
+        "degree_dms": "4°17'40\""
+      }
+    },
+    "planets": {
+      "sun": {
+        "name": "Sun",
+        "longitude": 230.6075029149364,
+        "longitude_dms": "230°36'27\"",
+        "sign": {
+          "sign": "Scorpio",
+          "degree": 20.60750291493639,
+          "degree_dms": "20°36'27\""
+        },
+        "retrograde": false
+      },
+      "moon": {
+        "name": "Moon",
+        "longitude": 288.12349043449046,
+        "longitude_dms": "288°7'25\"",
+        "sign": {
+          "sign": "Capricorn",
+          "degree": 18.123490434490463,
+          "degree_dms": "18°7'25\""
+        },
+        "retrograde": false
+      },
+      "mars": {
+        "name": "Mars",
+        "longitude": 290.24332362559335,
+        "longitude_dms": "290°14'36\"",
+        "sign": {
+          "sign": "Capricorn",
+          "degree": 20.243323625593348,
+          "degree_dms": "20°14'36\""
+        },
+        "retrograde": false
+      },
+      "mercury": {
+        "name": "Mercury",
+        "longitude": 236.3349475458109,
+        "longitude_dms": "236°20'6\"",
+        "sign": {
+          "sign": "Scorpio",
+          "degree": 26.334947545810905,
+          "degree_dms": "26°20'6\""
+        },
+        "retrograde": true
+      },
+      "jupiter": {
+        "name": "Jupiter",
+        "longitude": 27.280848681226065,
+        "longitude_dms": "27°16'51\"",
+        "sign": {
+          "sign": "Aries",
+          "degree": 27.280848681226065,
+          "degree_dms": "27°16'51\""
+        },
+        "retrograde": true
+      },
+      "venus": {
+        "name": "Venus",
+        "longitude": 184.66197049611395,
+        "longitude_dms": "184°39'43\"",
+        "sign": {
+          "sign": "Libra",
+          "degree": 4.661970496113952,
+          "degree_dms": "4°39'43\""
+        },
+        "retrograde": false
+      },
+      "saturn": {
+        "name": "Saturn",
+        "longitude": 43.14650856996724,
+        "longitude_dms": "43°8'47\"",
+        "sign": {
+          "sign": "Taurus",
+          "degree": 13.146508569967239,
+          "degree_dms": "13°8'47\""
+        },
+        "retrograde": true
+      },
+      "uranus": {
+        "name": "Uranus",
+        "longitude": 313.0535875704633,
+        "longitude_dms": "313°3'13\"",
+        "sign": {
+          "sign": "Aquarius",
+          "degree": 13.053587570463321,
+          "degree_dms": "13°3'13\""
+        },
+        "retrograde": false
+      },
+      "neptune": {
+        "name": "Neptune",
+        "longitude": 301.8449225529168,
+        "longitude_dms": "301°50'42\"",
+        "sign": {
+          "sign": "Aquarius",
+          "degree": 1.8449225529167848,
+          "degree_dms": "1°50'42\""
+        },
+        "retrograde": false
+      },
+      "pluto": {
+        "name": "Pluto",
+        "longitude": 249.59134534023008,
+        "longitude_dms": "249°35'29\"",
+        "sign": {
+          "sign": "Sagittarius",
+          "degree": 9.591345340230077,
+          "degree_dms": "9°35'29\""
+        },
+        "retrograde": false
+      },
+      "rahu": {
+        "name": "Rahu",
+        "longitude": 127.63759901473794,
+        "longitude_dms": "127°38'15\"",
+        "sign": {
+          "sign": "Leo",
+          "degree": 7.637599014737944,
+          "degree_dms": "7°38'15\""
+        },
+        "retrograde": true
+      }
+    }
+  },
+  "chinese": {
+    "animal": "Rabbit",
+    "element": "Earth",
+    "yin_yang": "Yin",
+    "full": "Earth Rabbit",
+    "year": 1999
+  },
+  "vimshottari_dasha": {
+    "starting_dasha": "Venus",
+    "moon_nakshatra": "Purva Ashadha",
+    "current_dasha": "Rahu",
+    "periods": [
+      {
+        "planet": "Venus",
+        "years": 1.42,
+        "start": "1999-11-13",
+        "end": "2001-04-15"
+      },
+      {
+        "planet": "Sun",
+        "years": 6,
+        "start": "2001-04-15",
+        "end": "2007-04-16"
+      },
+      {
+        "planet": "Moon",
+        "years": 10,
+        "start": "2007-04-16",
+        "end": "2017-04-15"
+      },
+      {
+        "planet": "Mars",
+        "years": 7,
+        "start": "2017-04-15",
+        "end": "2024-04-15"
+      },
+      {
+        "planet": "Rahu",
+        "years": 18,
+        "start": "2024-04-15",
+        "end": "2042-04-16"
+      },
+      {
+        "planet": "Jupiter",
+        "years": 16,
+        "start": "2042-04-16",
+        "end": "2058-04-16"
+      },
+      {
+        "planet": "Saturn",
+        "years": 19,
+        "start": "2058-04-16",
+        "end": "2077-04-15"
+      },
+      {
+        "planet": "Mercury",
+        "years": 17,
+        "start": "2077-04-15",
+        "end": "2094-04-16"
+      },
+      {
+        "planet": "Ketu",
+        "years": 7,
+        "start": "2094-04-16",
+        "end": "2101-04-16"
+      }
+    ]
+  },
+  "transits_2026": {
+    "mercury_retrogrades": [
+      {
+        "start": "2026-02-26",
+        "end": "2026-03-20",
+        "sign": "Pisces"
+      },
+      {
+        "start": "2026-06-29",
+        "end": "2026-07-23",
+        "sign": "Cancer"
+      },
+      {
+        "start": "2026-10-24",
+        "end": "2026-11-13",
+        "sign": "Scorpio"
+      }
+    ],
+    "major_transits": [
+      {
+        "date": "2026-01-26",
+        "event": "Neptune enters Aries"
+      },
+      {
+        "date": "2026-02-13",
+        "event": "Saturn enters Aries"
+      },
+      {
+        "date": "2026-04-25",
+        "event": "Uranus enters Gemini"
+      },
+      {
+        "date": "2026-06-30",
+        "event": "Jupiter enters Leo (Tropical)"
+      },
+      {
+        "date": "2026-06-01",
+        "event": "Jupiter enters Cancer (Vedic/Sidereal)"
+      },
+      {
+        "date": "2026-10-31",
+        "event": "Jupiter enters Leo (Vedic/Sidereal)"
+      },
+      {
+        "date": "2026-12-05",
+        "event": "Rahu-Ketu shift to Capricorn-Cancer"
+      }
+    ],
+    "eclipses": [
+      {
+        "date": "2026-02-17",
+        "type": "Annular Solar",
+        "sign": "Aquarius"
+      },
+      {
+        "date": "2026-03-03",
+        "type": "Total Lunar",
+        "sign": "Virgo"
+      },
+      {
+        "date": "2026-08-12",
+        "type": "Total Solar",
+        "sign": "Leo"
+      },
+      {
+        "date": "2026-08-28",
+        "type": "Partial Lunar",
+        "sign": "Pisces"
+      }
+    ],
+    "chinese_year": {
+      "starts": "2026-02-17",
+      "animal": "Horse",
+      "element": "Fire",
+      "full": "Fire Horse"
+    }
+  }
+}
